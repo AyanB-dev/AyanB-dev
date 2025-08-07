@@ -15,7 +15,7 @@
 - 🎓 I'm a Master's student at **Vellore Institute of Technology (2023-2025)**, specializing in computer applications.
 - 🚀 My passion lies in building robust and scalable backend systems using **JavaScript**, **Node.js**, and **Express.js**.
 - 🌱 I’m currently focused on writing industry-standard code and growing my skills by building practical, real-world projects.
-- ⚡ I'm currently building **[BotD](https://github.com/AyanB-dev/botd)**, a versatile Discord bot. *(Feel free to add a short description of what it does!)*
+- ⚡ I'm currently building **[BotD](https://github.com/AyanB-dev/botd)**, a versatile Discord bot.
 - 🐦 I'm an active voice in the developer community on **Twitter/X**. Let's connect!
 
 ---
